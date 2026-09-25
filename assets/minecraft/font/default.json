@@ -24,6 +24,12 @@
       "ascent": 36,
       "height": 36,
       "chars": ["⵾"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_member.png",
+      "ascent": 8,
+      "chars": ["⬋"]
     }
   ]
 }
