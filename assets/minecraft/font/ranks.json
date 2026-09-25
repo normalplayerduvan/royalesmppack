@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/owner_rank.png",
+      "ascent": 8,
+      "chars": ["⏙"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/management_rank.png",
+      "ascent": 8,
+      "chars": ["⤩"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:ranks/rank_staff.png",
+      "ascent": 8,
+      "chars": ["✣"]
+    }
+  ]
+}

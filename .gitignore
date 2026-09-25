@@ -1,0 +1,9 @@
+# Ignore specific helper/translation zip files
+Chat Reporting Helper.zip
+Mod Menu Helper.zip
+SodiumTranslations.zip
+
+# Ignore all zip files and OS clutter
+*.zip
+.DS_Store
+Thumbs.db
